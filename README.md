@@ -115,3 +115,6 @@ Below are some notes for getting setup to contribute code.
 2. I'm currently migrating to Prisma & TRPC, so any new functionality should be added within the `trpc` package rather than the `backend` package, unless it's an update to an existing behavior that does not merit moving.
 
 Backend API tests can be run via `docker compose exec backend env NODE_ENV=test POSTGRES_LOGGING=false npx nx test backend`.
+
+
+####This comment added by EnchantdEmerald 2025-06-07
