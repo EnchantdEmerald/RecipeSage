@@ -20,7 +20,7 @@
   "pages.app.nav.settings": "Settings",
 
   "pages.welcome.selfhostTitle": "RecipeSage Self Hosted!",
-  "pages.welcome.selfhostSubtitle": "An unofficial selfhosted version of RecipeSage.com, a free recipe keeper, meal planner, and shopping list organizer for Web, iOS, and Android",
+  "pages.welcome.selfhostSubtitle": "A fork of the unofficial selfhosted version of RecipeSage.com.  For more information please head to the original fork at https://github.com/julianpoy/RecipeSage  ",
   "pages.welcome.title": "All of your recipes in one place",
   "pages.welcome.subtitle": "A free recipe keeper, meal planner, and shopping list organizer for Web, iOS, and Android",
   "pages.welcome.registerButton": "Create an account",
